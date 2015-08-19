@@ -1,0 +1,6 @@
+[submodule "apache"]
+	path = apache
+	url = https://github.com/bitmotive/ansible-role-apache
+[submodule "php"]
+	path = php
+	url = git@github.com:bitmotive/ansible-role-php.git
